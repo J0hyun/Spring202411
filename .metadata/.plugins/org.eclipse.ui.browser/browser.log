@@ -1,0 +1,457 @@
+
+11월 19, 2024 17:53:48.429 NEW SESSION
+11월 19, 2024 17:53:48.429 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 19, 2024 17:53:48.524 [17352:3596:1119/175348.524:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 19, 2024 17:54:14.724 [17352:3596:1119/175414.724:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 19, 2024 17:56:16.184 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 19, 2024 17:56:16.308 [11580:11232:1119/175616.308:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 19, 2024 17:56:46.107 [11580:11232:1119/175646.106:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 19, 2024 17:57:27.211 [11580:11232:1119/175727.210:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+11월 20, 2024 11:49:14.185 NEW SESSION
+11월 20, 2024 11:49:14.185 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 11:49:14.287 [17848:5476:1120/114914.287:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 11:49:38.473 [17848:5476:1120/114938.473:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 11:50:32.485 [17848:5476:1120/115032.485:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 11:51:56.628 [17848:5476:1120/115156.628:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 11:52:53.723 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 11:52:53.820 [13444:2636:1120/115253.819:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 11:53:20.823 [13444:2636:1120/115320.823:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 11:54:19.865 [13444:2636:1120/115419.865:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 11:55:50.838 [13444:2636:1120/115550.838:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 11:58:46.812 [13444:2636:1120/115846.812:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 12:04:06.999 [13444:3332:1120/120406.999:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+11월 20, 2024 12:04:07.00     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+11월 20, 2024 12:04:07.00     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+11월 20, 2024 12:04:07.00     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+11월 20, 2024 12:04:07.00     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+11월 20, 2024 12:04:07.00     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+11월 20, 2024 12:04:07.01     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 20, 2024 12:06:28.848 [13444:2636:1120/120628.848:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 12:08:31.212 [13444:3332:1120/120831.211:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+11월 20, 2024 12:08:31.212     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+11월 20, 2024 12:08:31.212     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+11월 20, 2024 12:08:31.212     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+11월 20, 2024 12:08:31.212     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+11월 20, 2024 12:08:31.213     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+11월 20, 2024 12:08:31.213     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 20, 2024 13:04:19.261 [13444:3332:1120/130419.261:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+11월 20, 2024 13:04:19.262     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+11월 20, 2024 13:04:19.262     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+11월 20, 2024 13:04:19.262     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+11월 20, 2024 13:04:19.262     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+11월 20, 2024 13:04:19.262     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+11월 20, 2024 13:04:19.262     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 20, 2024 13:10:21.115 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 13:10:21.234 [6392:11728:1120/131021.233:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 13:10:31.03 [6392:18744:1120/131031.003:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+11월 20, 2024 13:10:31.03     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+11월 20, 2024 13:10:31.04     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+11월 20, 2024 13:10:31.04     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+11월 20, 2024 13:10:31.04     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+11월 20, 2024 13:10:31.04     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+11월 20, 2024 13:10:31.04     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 20, 2024 13:10:42.885 [6392:11728:1120/131042.884:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 13:11:37.519 [6392:11728:1120/131137.519:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 13:13:34.511 [6392:11728:1120/131334.511:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 13:16:35.141 [6392:11728:1120/131635.141:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 13:24:27.454 [6392:11728:1120/132427.454:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 14:38:47.516 [6392:18744:1120/143847.516:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+11월 20, 2024 14:38:47.516     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+11월 20, 2024 14:38:47.516     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+11월 20, 2024 14:38:47.517     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+11월 20, 2024 14:38:47.517     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+11월 20, 2024 14:38:47.517     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+11월 20, 2024 14:38:47.517     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 20, 2024 14:44:42.512 [6392:18744:1120/144442.512:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+11월 20, 2024 14:44:42.512     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+11월 20, 2024 14:44:42.512     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+11월 20, 2024 14:44:42.512     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+11월 20, 2024 14:44:42.512     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+11월 20, 2024 14:44:42.513     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+11월 20, 2024 14:44:42.513     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 20, 2024 14:47:30.459 [6392:18744:1120/144730.459:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+11월 20, 2024 14:47:30.460     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+11월 20, 2024 14:47:30.460     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+11월 20, 2024 14:47:30.460     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+11월 20, 2024 14:47:30.460     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+11월 20, 2024 14:47:30.460     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+11월 20, 2024 14:47:30.460     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 20, 2024 14:49:21.721 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 14:49:21.829 [13300:11844:1120/144921.829:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 14:49:27.280 [13300:12828:1120/144927.279:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+11월 20, 2024 14:49:27.280     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+11월 20, 2024 14:49:27.280     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+11월 20, 2024 14:49:27.280     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+11월 20, 2024 14:49:27.280     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+11월 20, 2024 14:49:27.280     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+11월 20, 2024 14:49:27.281     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 20, 2024 14:49:49.928 [13300:11844:1120/144949.928:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 14:50:14.796 [13300:12828:1120/145014.796:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+11월 20, 2024 14:50:14.797     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+11월 20, 2024 14:50:14.797     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+11월 20, 2024 14:50:14.797     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+11월 20, 2024 14:50:14.797     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+11월 20, 2024 14:50:14.797     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+11월 20, 2024 14:50:14.797     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 20, 2024 14:50:43.122 [13300:11844:1120/145043.121:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+11월 20, 2024 14:54:18.810 NEW SESSION
+11월 20, 2024 14:54:18.810 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 14:54:18.919 [16484:14060:1120/145418.919:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 14:54:40.515 [16484:14060:1120/145440.515:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 14:55:40.444 [16484:14060:1120/145540.444:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+11월 20, 2024 14:58:16.556 NEW SESSION
+11월 20, 2024 14:58:16.556 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 14:58:16.666 [19444:15688:1120/145816.665:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 14:58:22.304 [19444:4088:1120/145822.303:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+11월 20, 2024 14:58:22.304     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+11월 20, 2024 14:58:22.304     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+11월 20, 2024 14:58:22.304     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+11월 20, 2024 14:58:22.304     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+11월 20, 2024 14:58:22.305     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+11월 20, 2024 14:58:22.305     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 20, 2024 14:58:37.583 [19444:15688:1120/145837.583:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 14:59:32.757 [19444:15688:1120/145932.757:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:00:59.722 [19444:15688:1120/150059.722:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:03:56.323 [19444:15688:1120/150356.322:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:04:20.919 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 15:04:21.24 [9096:7800:1120/150421.024:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:04:49.798 [9096:7800:1120/150449.798:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:05:32.708 [9096:7800:1120/150532.708:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:07:20.775 [9096:7800:1120/150720.775:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:11:17.725 [9096:7800:1120/151117.725:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:19:11.778 [9096:10208:1120/151911.778:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+11월 20, 2024 15:19:11.779     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+11월 20, 2024 15:19:11.779     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+11월 20, 2024 15:19:11.779     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+11월 20, 2024 15:19:11.780     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+11월 20, 2024 15:19:11.780     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+11월 20, 2024 15:19:11.780     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 20, 2024 15:19:15.244 [9096:7800:1120/151915.244:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:24:40.789 [12044:14472:1120/152440.788:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+11월 20, 2024 15:24:40.789     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+11월 20, 2024 15:24:40.789     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+11월 20, 2024 15:24:40.789     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+11월 20, 2024 15:24:40.789     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+11월 20, 2024 15:24:40.790     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+11월 20, 2024 15:24:40.790     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 20, 2024 15:24:40.983 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 15:24:41.82 [12044:19076:1120/152441.082:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:25:09.418 [12044:19076:1120/152509.418:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:26:00.68 [12044:19076:1120/152600.068:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:27:27.640 [12044:19076:1120/152727.640:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:30:28.679 [12044:19076:1120/153028.679:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:36:19.881 [12044:19076:1120/153619.881:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:38:28.171 [12044:14472:1120/153828.171:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+11월 20, 2024 15:38:28.171     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+11월 20, 2024 15:38:28.172     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+11월 20, 2024 15:38:28.172     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+11월 20, 2024 15:38:28.172     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+11월 20, 2024 15:38:28.172     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+11월 20, 2024 15:38:28.172     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 20, 2024 15:40:47.505 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 15:40:47.602 [10312:7588:1120/154047.601:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:41:15.513 [10312:7588:1120/154115.513:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:42:13.739 [10312:7588:1120/154213.739:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:43:53.58 [10312:7588:1120/154353.058:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:47:50.548 [10312:7588:1120/154750.548:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 15:53:07.314 [10312:2588:1120/155307.314:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+11월 20, 2024 15:53:07.315     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+11월 20, 2024 15:53:07.315     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+11월 20, 2024 15:53:07.315     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+11월 20, 2024 15:53:07.315     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+11월 20, 2024 15:53:07.315     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+11월 20, 2024 15:53:07.316     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 20, 2024 15:54:11.211 [10312:7588:1120/155411.211:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 16:15:08.872 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 16:15:08.990 [7316:7504:1120/161508.990:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 16:15:36.286 [7316:7504:1120/161536.286:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 16:16:25.200 [7316:7504:1120/161625.200:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 16:18:20.476 [7316:7504:1120/161820.476:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 16:21:12.36 [7316:7504:1120/162112.036:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 16:28:13.980 [7316:7504:1120/162813.980:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+11월 20, 2024 16:58:38.688 NEW SESSION
+11월 20, 2024 16:58:38.688 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 16:58:38.790 [14844:13296:1120/165838.790:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 16:59:01.837 [14844:13296:1120/165901.837:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 16:59:30.08 [14844:5192:1120/165930.008:ERROR:interface_endpoint_client.cc(725)] Message 1 rejected by interface blink.mojom.WidgetHost
+11월 20, 2024 16:59:44.87 [14844:13296:1120/165944.087:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 17:01:22.741 [14844:13296:1120/170122.740:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 17:03:51.930 [14844:5192:1120/170351.930:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+11월 20, 2024 17:03:51.930     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+11월 20, 2024 17:03:51.931     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+11월 20, 2024 17:03:51.931     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+11월 20, 2024 17:03:51.931     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+11월 20, 2024 17:03:51.931     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+11월 20, 2024 17:03:51.931     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 20, 2024 17:04:17.970 [14844:13296:1120/170417.969:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 17:11:45.88 [14844:13296:1120/171145.088:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 17:17:00.355 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 20, 2024 17:17:00.479 [14900:15156:1120/171700.479:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 17:17:29.621 [14900:15156:1120/171729.621:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 17:18:18.328 [14900:15156:1120/171818.328:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 17:20:18.25 [14900:15156:1120/172018.025:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 17:23:17.321 [14900:15156:1120/172317.321:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 17:30:03.782 [14900:15156:1120/173003.782:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 20, 2024 17:47:49.26 [14900:15156:1120/174749.026:ERROR:mcs_client.cc(749)] Received close command, resetting connection.
+
+11월 21, 2024 12:09:12.786 NEW SESSION
+11월 21, 2024 12:09:12.786 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 12:09:12.884 [932:7444:1121/120912.883:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 12:09:36.356 [932:7444:1121/120936.356:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 12:10:26.765 [932:7444:1121/121026.765:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 12:12:14.400 [932:7444:1121/121214.400:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 12:15:55.593 [932:7444:1121/121555.593:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 12:17:46.424 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 12:17:46.528 [4976:2200:1121/121746.528:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+11월 21, 2024 12:19:06.81 NEW SESSION
+11월 21, 2024 12:19:06.81 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 12:19:06.193 [14040:3852:1121/121906.193:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 12:19:28.893 [14040:3852:1121/121928.893:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 12:20:22.97 [14040:3852:1121/122022.097:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 12:22:01.398 [14040:3852:1121/122201.398:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 12:24:57.59 [14040:3852:1121/122457.059:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 12:30:49.329 [14040:3852:1121/123049.329:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 12:35:28.611 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 12:35:28.740 [17092:16504:1121/123528.740:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 12:35:57.589 [17092:16504:1121/123557.589:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 12:36:41.522 [17092:16504:1121/123641.522:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 12:38:04.845 [17092:16504:1121/123804.845:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 12:41:30.346 [17092:16504:1121/124130.346:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 12:49:22.404 [17092:16504:1121/124922.404:ERROR:registration_request.cc(291)] Registration response error message: QUOTA_EXCEEDED
+11월 21, 2024 13:07:03.912 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 13:07:04.21 [4140:16568:1121/130704.021:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 13:07:26.134 [4140:16568:1121/130726.134:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 13:08:13.820 [4140:16568:1121/130813.820:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 13:09:34.954 [4140:16568:1121/130934.953:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 13:13:29.289 [4140:16568:1121/131329.289:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 13:21:26.180 [4140:16568:1121/132126.179:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:30:32.875 [4140:14844:1121/143032.875:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+11월 21, 2024 14:30:32.876     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+11월 21, 2024 14:30:32.876     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+11월 21, 2024 14:30:32.876     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+11월 21, 2024 14:30:32.876     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+11월 21, 2024 14:30:32.876     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+11월 21, 2024 14:30:32.877     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 21, 2024 14:35:49.55 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 14:35:49.172 [19240:1432:1121/143549.171:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:36:18.936 [19240:1432:1121/143618.936:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:37:18.372 [19240:1432:1121/143718.372:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:38:42.667 [19240:1432:1121/143842.667:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:39:57.118 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 14:39:57.223 [12340:10744:1121/143957.223:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:40:19.194 [12340:10744:1121/144019.194:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:41:08.739 [12340:10744:1121/144108.739:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:43:05.919 [12340:10744:1121/144305.919:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:46:07.640 [12340:9276:1121/144607.639:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+11월 21, 2024 14:46:07.640     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+11월 21, 2024 14:46:07.640     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+11월 21, 2024 14:46:07.640     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+11월 21, 2024 14:46:07.640     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+11월 21, 2024 14:46:07.641     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+11월 21, 2024 14:46:07.641     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 21, 2024 14:46:14.964 [12340:9276:1121/144614.964:ERROR:CONSOLE(1)] "Request Network.loadNetworkResource failed. {"code":-32602,"message":"Unsupported URL scheme"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+11월 21, 2024 14:46:15.802 [12340:9276:1121/144615.802:ERROR:CONSOLE(1)] "Request Page.reload failed. {"code":-32602,"message":"Reload was discarded because the page already navigated"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+11월 21, 2024 14:46:34.394 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 14:46:34.489 [16032:17136:1121/144634.489:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:47:01.540 [16032:17136:1121/144701.540:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:47:54.183 [16032:17136:1121/144754.183:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:48:45.507 [16032:13772:1121/144845.507:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+11월 21, 2024 14:48:45.507     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+11월 21, 2024 14:48:45.508     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+11월 21, 2024 14:48:45.508     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+11월 21, 2024 14:48:45.508     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+11월 21, 2024 14:48:45.508     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+11월 21, 2024 14:48:45.508     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 21, 2024 14:49:41.586 [16032:17136:1121/144941.586:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:50:00.820 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 14:50:00.924 [10872:6476:1121/145000.924:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:50:25.419 [10872:6476:1121/145025.419:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:51:15.938 [10872:6476:1121/145115.938:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:53:11.306 [10872:6476:1121/145311.306:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:55:21.750 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 14:55:21.841 [11300:13580:1121/145521.841:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:55:35.42 [11300:13532:1121/145535.041:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+11월 21, 2024 14:55:35.42     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+11월 21, 2024 14:55:35.42     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+11월 21, 2024 14:55:35.42     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+11월 21, 2024 14:55:35.43     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+11월 21, 2024 14:55:35.43     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+11월 21, 2024 14:55:35.43     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 21, 2024 14:55:51.05 [11300:13580:1121/145551.005:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:56:42.823 [11300:13580:1121/145642.823:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 14:57:01.595 [11300:13532:1121/145701.595:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+11월 21, 2024 14:57:01.596     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+11월 21, 2024 14:57:01.596     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+11월 21, 2024 14:57:01.596     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+11월 21, 2024 14:57:01.596     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+11월 21, 2024 14:57:01.596     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+11월 21, 2024 14:57:01.597     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 21, 2024 14:58:05.240 [11300:13580:1121/145805.239:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:01:48.23 [11300:13580:1121/150148.022:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:08:23.685 [11300:13580:1121/150823.685:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:19:38.78 [11300:13532:1121/151938.078:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+11월 21, 2024 15:19:38.78     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+11월 21, 2024 15:19:38.79     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+11월 21, 2024 15:19:38.79     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+11월 21, 2024 15:19:38.79     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+11월 21, 2024 15:19:38.79     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+11월 21, 2024 15:19:38.80     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 21, 2024 15:32:36.07 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 15:32:36.115 [5884:16264:1121/153236.115:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:33:04.260 [5884:16264:1121/153304.259:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:33:57.62 [5884:16264:1121/153357.062:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:50:07.186 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 15:50:07.296 [16108:7520:1121/155007.296:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:50:28.14 [16108:7520:1121/155028.014:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:51:26.880 [16108:7520:1121/155126.880:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:53:20.524 [16108:7520:1121/155320.524:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 15:56:30.95 [16108:7520:1121/155630.094:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 16:04:04.524 [16108:7520:1121/160404.524:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 16:18:38.287 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 16:18:38.398 [14392:6264:1121/161838.398:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 16:19:08.43 [14392:6264:1121/161908.043:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 16:19:48.896 [14392:6264:1121/161948.896:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 16:21:37.257 [14392:6264:1121/162137.257:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 16:24:53.397 [14392:6264:1121/162453.397:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 16:31:10.977 [14392:6264:1121/163110.976:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 16:47:22.727 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 21, 2024 16:47:22.831 [3172:10488:1121/164722.830:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 16:47:44.837 [3172:10488:1121/164744.837:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 16:48:41.348 [3172:10488:1121/164841.348:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 16:48:51.724 [3172:7032:1121/164851.724:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98356)
+11월 21, 2024 16:48:51.725     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:191793
+11월 21, 2024 16:48:51.725     at new oi (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192189)
+11월 21, 2024 16:48:51.725     at oi.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:192311)
+11월 21, 2024 16:48:51.725     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+11월 21, 2024 16:48:51.725     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17314)
+11월 21, 2024 16:48:51.726     at #x (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17109)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 21, 2024 16:50:09.806 [3172:10488:1121/165009.806:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 16:53:44.538 [3172:10488:1121/165344.538:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 21, 2024 17:00:01.898 [3172:10488:1121/170001.898:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+11월 22, 2024 10:02:28.55 NEW SESSION
+11월 22, 2024 10:02:28.55 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 22, 2024 10:02:28.171 [4024:3524:1122/100228.171:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 10:02:54.982 [4024:3524:1122/100254.982:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 10:03:50.96 [4024:3524:1122/100350.095:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 10:05:46.21 [4024:3524:1122/100546.021:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 10:08:59.832 [4024:3524:1122/100859.832:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 10:09:05.283 [4024:16660:1122/100905.283:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98934)
+11월 22, 2024 10:09:05.283     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:194918
+11월 22, 2024 10:09:05.283     at new ci (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:195314)
+11월 22, 2024 10:09:05.284     at ci.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:195436)
+11월 22, 2024 10:09:05.284     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+11월 22, 2024 10:09:05.284     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17402)
+11월 22, 2024 10:09:05.284     at #v (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17197)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 22, 2024 10:11:40.909 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 22, 2024 10:11:41.23 [16344:11544:1122/101141.023:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 10:12:09.737 [16344:11544:1122/101209.737:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 10:12:52.677 [16344:11544:1122/101252.677:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 10:14:28.116 [16344:11544:1122/101428.116:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 10:17:27.835 [16344:11544:1122/101727.835:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 10:24:22.21 [16344:11544:1122/102422.021:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 10:26:16.654 [16344:7104:1122/102616.654:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98934)
+11월 22, 2024 10:26:16.654     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:194918
+11월 22, 2024 10:26:16.655     at new ci (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:195314)
+11월 22, 2024 10:26:16.655     at ci.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:195436)
+11월 22, 2024 10:26:16.655     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+11월 22, 2024 10:26:16.655     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17402)
+11월 22, 2024 10:26:16.655     at #v (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17197)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 22, 2024 10:26:16.958 [16344:7104:1122/102616.957:ERROR:CONSOLE(1)] "Request Network.loadNetworkResource failed. {"code":-32602,"message":"Unsupported URL scheme"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+11월 22, 2024 10:26:35.754 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 22, 2024 10:26:35.865 [2828:17388:1122/102635.864:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 10:27:04.886 [2828:17388:1122/102704.886:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 10:27:50.500 [2828:17388:1122/102750.500:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 10:29:13.435 [2828:10572:1122/102913.435:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98934)
+11월 22, 2024 10:29:13.435     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:194918
+11월 22, 2024 10:29:13.436     at new ci (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:195314)
+11월 22, 2024 10:29:13.436     at ci.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:195436)
+11월 22, 2024 10:29:13.436     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+11월 22, 2024 10:29:13.436     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17402)
+11월 22, 2024 10:29:13.436     at #v (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17197)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 22, 2024 10:29:17.247 [2828:17388:1122/102917.247:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 10:32:19.260 [2828:17388:1122/103219.260:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 10:39:24.396 [2828:10572:1122/103924.396:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98934)
+11월 22, 2024 10:39:24.396     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:194918
+11월 22, 2024 10:39:24.396     at new ci (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:195314)
+11월 22, 2024 10:39:24.396     at ci.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:195436)
+11월 22, 2024 10:39:24.397     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+11월 22, 2024 10:39:24.397     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17402)
+11월 22, 2024 10:39:24.397     at #v (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17197)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 22, 2024 10:40:18.152 [2828:17388:1122/104018.151:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 10:41:46.128 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 22, 2024 10:41:46.241 [3664:17828:1122/104146.241:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 10:42:07.891 [3664:17828:1122/104207.890:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 10:42:48.720 [3664:17828:1122/104248.720:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 10:44:44.36 [3664:17828:1122/104444.035:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 10:45:45.721 [3664:6296:1122/104545.720:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98934)
+11월 22, 2024 10:45:45.721     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:194918
+11월 22, 2024 10:45:45.721     at new ci (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:195314)
+11월 22, 2024 10:45:45.721     at ci.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:195436)
+11월 22, 2024 10:45:45.721     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+11월 22, 2024 10:45:45.722     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17402)
+11월 22, 2024 10:45:45.722     at #v (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17197)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 22, 2024 10:48:39.572 [3664:17828:1122/104839.572:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 10:49:10.666 [3664:6296:1122/104910.666:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98934)
+11월 22, 2024 10:49:10.667     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:194918
+11월 22, 2024 10:49:10.667     at new ci (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:195314)
+11월 22, 2024 10:49:10.667     at ci.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:195436)
+11월 22, 2024 10:49:10.667     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+11월 22, 2024 10:49:10.667     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17402)
+11월 22, 2024 10:49:10.668     at #v (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17197)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 22, 2024 10:50:53.224 [3664:6296:1122/105053.224:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98934)
+11월 22, 2024 10:50:53.225     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:194918
+11월 22, 2024 10:50:53.225     at new ci (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:195314)
+11월 22, 2024 10:50:53.226     at ci.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:195436)
+11월 22, 2024 10:50:53.226     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+11월 22, 2024 10:50:53.226     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17402)
+11월 22, 2024 10:50:53.226     at #v (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17197)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+
+11월 22, 2024 10:52:51.941 NEW SESSION
+11월 22, 2024 10:52:51.941 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 22, 2024 10:52:52.63 [3716:10100:1122/105252.063:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 10:53:20.658 [3716:10100:1122/105320.658:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 10:54:14.195 [3716:10100:1122/105414.195:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 10:56:04.54 [3716:10100:1122/105604.054:ERROR:registration_request.cc(291)] Registration response error message: QUOTA_EXCEEDED
+11월 22, 2024 10:56:41.146 [3716:14856:1122/105641.146:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98934)
+11월 22, 2024 10:56:41.146     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:194918
+11월 22, 2024 10:56:41.147     at new ci (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:195314)
+11월 22, 2024 10:56:41.147     at ci.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:195436)
+11월 22, 2024 10:56:41.147     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+11월 22, 2024 10:56:41.147     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17402)
+11월 22, 2024 10:56:41.147     at #v (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17197)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+
+11월 22, 2024 11:21:16.534 NEW SESSION
+11월 22, 2024 11:21:16.534 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 22, 2024 11:21:16.643 [1520:19164:1122/112116.643:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 11:21:38.843 [1520:19164:1122/112138.843:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 11:22:23.846 [1520:19164:1122/112223.846:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 11:24:12.406 [1520:19164:1122/112412.406:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+11월 22, 2024 11:44:07.123 NEW SESSION
+11월 22, 2024 11:44:07.123 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 22, 2024 11:44:07.236 [14700:3760:1122/114407.236:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 11:44:34.708 [14700:3760:1122/114434.707:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 11:45:20.280 [14700:3760:1122/114520.280:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 11:47:01.769 [14700:3760:1122/114701.768:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 11:50:40.881 [14700:3760:1122/115040.881:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 11:57:53.593 [14700:3760:1122/115753.593:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 12:41:07.871 [14700:12444:1122/124107.871:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98934)
+11월 22, 2024 12:41:07.871     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:194918
+11월 22, 2024 12:41:07.872     at new ci (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:195314)
+11월 22, 2024 12:41:07.872     at ci.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:195436)
+11월 22, 2024 12:41:07.872     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+11월 22, 2024 12:41:07.873     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17402)
+11월 22, 2024 12:41:07.873     at #v (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17197)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 22, 2024 12:54:20.843 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 22, 2024 12:54:20.855 [14936:13832:1122/125420.855:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 12:54:50.456 [14936:13832:1122/125450.456:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 12:55:38.325 [14936:13832:1122/125538.325:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 12:57:12.154 [14936:13832:1122/125712.154:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 13:00:07.856 [14936:13832:1122/130007.856:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 13:06:34.970 [14936:13832:1122/130634.969:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT

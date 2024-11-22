@@ -1,0 +1,9 @@
+package org.zerock.controller;
+
+import org.springframework.stereotype.Controller;
+
+@Controllert
+
+public class SampleController {
+
+}
