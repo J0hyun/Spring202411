@@ -8,6 +8,10 @@
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="Member"/>
+			<item value="member"/>
+			<item value="replyer"/>
+			<item value="reply"/>
 			<item value="replies"/>
 			<item value="PostMapping"/>
 			<item value="remove start"/>
@@ -19,10 +23,6 @@
 			<item value="resources"/>
 			<item value="/resource"/>
 			<item value=".."/>
-			<item value="3.5"/>
-			<item value="3."/>
-			<item value="lombok"/>
-			<item value="lom"/>
 		</list>
 		<list key="replacehistory">
 			<item value="/resources"/>

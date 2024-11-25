@@ -455,3 +455,22 @@
 11월 22, 2024 12:57:12.154 [14936:13832:1122/125712.154:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
 11월 22, 2024 13:00:07.856 [14936:13832:1122/130007.856:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
 11월 22, 2024 13:06:34.970 [14936:13832:1122/130634.969:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 15:59:18.155 [14936:6564:1122/155918.155:ERROR:CONSOLE(1)] "Unknown VE context: language-mismatch    at new He (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:98934)
+11월 22, 2024 15:59:18.156     at devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:194918
+11월 22, 2024 15:59:18.156     at new ci (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:195314)
+11월 22, 2024 15:59:18.156     at ci.instance (devtools://devtools/bundled/devtools-frontend/front_end/ui/legacy/legacy.js:1:195436)
+11월 22, 2024 15:59:18.156     at O.presentUI (devtools://devtools/bundled/devtools-frontend/front_end/panels/emulation/emulation.js:1:58454)
+11월 22, 2024 15:59:18.157     at #I (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17402)
+11월 22, 2024 15:59:18.157     at #v (devtools://devtools/bundled/devtools-frontend/front_end/entrypoints/main/main.js:1:17197)", source: devtools://devtools/bundled/devtools-frontend/front_end/ui/visual_logging/visual_logging.js (1)
+11월 22, 2024 16:00:43.667 [14936:6564:1122/160043.667:ERROR:CONSOLE(1)] "Request Network.loadNetworkResource failed. {"code":-32602,"message":"Unsupported URL scheme"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+11월 22, 2024 16:00:43.680 [14936:6564:1122/160043.680:ERROR:CONSOLE(1)] "Request Page.reload failed. {"code":-32602,"message":"Reload was discarded because the page already navigated"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+11월 22, 2024 16:27:32.963 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 22, 2024 16:27:33.81 [14916:15492:1122/162733.080:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 16:27:59.904 [14916:15492:1122/162759.904:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 16:28:48.444 [14916:15492:1122/162848.444:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 16:30:21.539 [14916:15492:1122/163021.539:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+11월 22, 2024 16:34:19.00 [14916:15492:1122/163418.999:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+11월 25, 2024 15:27:04.176 NEW SESSION
+11월 25, 2024 15:27:04.176 Created TensorFlow Lite XNNPACK delegate for CPU.
+11월 25, 2024 15:27:04.252 [13192:16840:1125/152704.252:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT

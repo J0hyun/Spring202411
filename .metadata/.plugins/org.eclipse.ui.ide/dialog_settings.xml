@@ -124,4 +124,8 @@
 			<item value="C:\Works\spring"/>
 		</list>
 	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="BasicNewProjectResourceWizard">
+	</section>
 </section>
